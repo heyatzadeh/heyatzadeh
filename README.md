@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hossein
 ===============================================================================================================================
 
-C++/Python Developer
+C++ Developer
 --------------------
 
 I'm excited to build high-quality software applications that make a positive impact on people's lives. If you're looking for a skilled C++ and Python developer to join your team, I'd love to connect and discuss how I can help.
 
 * 🌍  I'm based in Tehran, Iran
 * 🚀  I'm currently working on [BMI Bank ATM](http://bmi.ir/en/default.aspx)
-* 🧠  I'm learning Django
+* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  Problem solver and a collaborator
 
