@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++ Developer
 --------------------
 
-I'm excited to build high-quality software applications that make a positive impact on people's lives. If you're looking for a skilled C++ and Python developer to join your team, I'd love to connect and discuss how I can help.
+I'm excited to build high-quality software applications that make a positive impact on people's lives.
 
 * 🌍  I'm based in Bruchsal, Germany
 * 🚀  I'm currently working on [Silver Scan-Tool](https://www.rac.de/unser-angebot/software/silverscan-tool/)
 * 🧠  I'm learning DevOps and Modern C++
 * 🤝  I'm open to collaborating on any interesting projects
-* ⚡  Problem solver and a collaborator
 
 ### Skills
 
